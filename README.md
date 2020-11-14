@@ -16,64 +16,64 @@
 
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 | 16주차 | 17주차 | 18주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Chohongjae | :white_check_mark: | | | | | | | | | | | | | | | | |
-| DevelopJKong | :white_check_mark: | | | | | | | | | | | | | | | | |
-| HyangKeunChoi | :white_check_mark: | | | | | | | | | | | | | | | | |
-| JadenKim940105 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| JeongJin984 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| JsKim4 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| Jul-liet | :white_check_mark: | | | | | | | | | | | | | | | | |
-| KyungJae-Jang | :white_check_mark: | | | | | | | | | | | | | | | | |
-| Lee-jaeyong | :white_check_mark: | | | | | | | | | | | | | | | | |
-| Lob-dev | :white_check_mark: | | | | | | | | | | | | | | | | |
-| WonYong-Jang | :white_check_mark: | | | | | | | | | | | | | | | | |
-| Yadon079 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| abcdsds | :white_check_mark: | | | | | | | | | | | | | | | | |
-| addadda15 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| ahyz0569 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| asqwklop12 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| batboy118 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| binghe819 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| cbw1030 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| dev-jaekkim | :white_check_mark: | | | | | | | | | | | | | | | | |
-| dmstjd1024 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| dudqls5271 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| fkfkfk9 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| fpdjsns | :white_check_mark: | | | | | | | | | | | | | | | | |
-| gblee87 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| ggomjae | :white_check_mark: | | | | | | | | | | | | | | | | |
-| giyeon95 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| hanull | :white_check_mark: | | | | | | | | | | | | | | | | |
-| hongminpark | :white_check_mark: | | | | | | | | | | | | | | | | |
-| hwonny | :white_check_mark: | | | | | | | | | | | | | | | | |
-| hyenny | :white_check_mark: | | | | | | | | | | | | | | | | |
-| hyeonic | :white_check_mark: | | | | | | | | | | | | | | | | |
-| id6827 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| idiot2222 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| jaehyunup | :white_check_mark: | | | | | | | | | | | | | | | | |
-| jaeyeon93 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| kingsubin | :white_check_mark: | | | | | | | | | | | | | | | | |
-| kksb0831 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| ksundong | :white_check_mark: | | | | | | | | | | | | | | | | |
-| league3236 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| lee-maru | :white_check_mark: | | | | | | | | | | | | | | | | |
-| m3252 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| memoregoing | :white_check_mark: | | | | | | | | | | | | | | | | |
-| mongzza | :white_check_mark: | | | | | | | | | | | | | | | | |
-| nimkoes | :white_check_mark: | | | | | | | | | | | | | | | | |
-| plzprayme | :white_check_mark: | | | | | | | | | | | | | | | | |
-| pond1029 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| roeniss | :white_check_mark: | | | | | | | | | | | | | | | | |
-| sangw0804 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| sojintjdals | :white_check_mark: | | | | | | | | | | | | | | | | |
-| sowhat9293 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| tbnsok40 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| twowinsh87 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| wdEffort | :white_check_mark: | | | | | | | | | | | | | | | | |
-| whiteship | :white_check_mark: | | | | | | | | | | | | | | | | |
-| yeGenieee | :white_check_mark: | | | | | | | | | | | | | | | | |
-| yeo311 | :white_check_mark: | | | | | | | | | | | | | | | | |
-| zilzu4165 | :white_check_mark: | | | | | | | | | | | | | | | | |
-
+| Chohongjae | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| DevelopJKong | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| HyangKeunChoi | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| JadenKim940105 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| JeongJin984 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| JsKim4 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| Jul-liet | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| KyungJae-Jang | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| Lee-jaeyong | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| Lob-dev | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| WonYong-Jang | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| Yadon079 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| abcdsds | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| addadda15 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| ahyz0569 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| asqwklop12 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| batboy118 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| binghe819 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| cbw1030 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| dev-jaekkim | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| dmstjd1024 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| dudqls5271 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| fkfkfk9 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| fpdjsns | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| gblee87 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| ggomjae | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| giyeon95 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| hanull | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| hongminpark | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| hwonny | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| hyenny | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| hyeonic | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| id6827 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| idiot2222 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| jaehyunup | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| jaeyeon93 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| kingsubin | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| kksb0831 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| ksundong | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| league3236 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| lee-maru | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| m3252 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| memoregoing | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| mongzza | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| nimkoes | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| plzprayme | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| pond1029 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| roeniss | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| sangw0804 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| sigriswil | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| sojintjdals | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| sowhat9293 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| tbnsok40 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| twowinsh87 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| wdEffort | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| whiteship | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| yeGenieee | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| yeo311 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
+| zilzu4165 | :white_check_mark: | | | | | | | | | | | | | | | | 5.56% |
 
 
