@@ -1,4 +1,6 @@
-public class yslListQueue {
+import java.util.Queue;
+
+public class yslListQueue{
     private yslLinkedList head = new yslLinkedList();
     private int front = 0;
     private int end = 1;

@@ -3,12 +3,17 @@ public class yslArrayQueue {
     private int front;
     private int end;
 
+    public int getFront() {return front;}
+
+    public int getEnd() {return end;}
+
     public yslArrayQueue(){
         front = 0;
         end = 0;
     }
     public void push(int x){
-        array[end++] = x;
+        end = (end+1)%1000;
+        array[end] = x;
     }
     public void pop(){
         array[front++] = 0;
