@@ -1,50 +1,22 @@
 public class Node {
-    int value;
+    private  int value;
     Node left;
     Node right;
 
-    Node(int initValue){
-        this.value = initValue;
-        this.left = null;
-        this.right = null;
-    }
-
-    private int getValue(){
-        return this.value;
-    }
-
-    public Node add(Node childNode){
-        if(this.left == null){
-            this.left = childNode;
-            return this.left;
-        }else{
-            this.right = childNode;
-            return this.right;
-        }
-    }
-
-    public void print(Node cur){
-        System.out.println(cur.getValue());
-        if(cur.left != null){
-            print(cur.left);
-            if(cur.right != null){
-                print(cur.right);
-            }
-        }
-    }
+    public int getValue(){ return this.value; }
+    public void setValue(int value) { this.value = value;}
 
     public static void main(String[] args) {
-        Node root = new Node(1);
-        root.print(root);
+        Node root = new Node();
+        Node node1 = new Node();
+        Node node2 = new Node();
 
-        Node child1 = new Node(2);
-        Node child2 = new Node(3);
-        Node child3 = new Node(4);
+        root.setValue(1);
+        node1.setValue(10);
+        node2.setValue(100);
 
-        root.add(child1);
-        root.add(child2);
-        child1.add(child3);
-
-        root.print(root);
+        System.out.println(root.getValue());
+        System.out.println(node1.getValue());
+        System.out.println(node2.getValue());
     }
 }
