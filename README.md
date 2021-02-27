@@ -20,7 +20,7 @@
 
 | 참여자 (380) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|| 0417taehyun |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||||| | 20.00% |
+| 0417taehyun |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||||| | 20.00% |
 | 1031nice |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| | 93.33% |
 | 2323-coded |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||||| | 20.00% |
 | 2yeseul |:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:| | 80.00% |
@@ -435,4 +435,3 @@
 | zeze1004 |:white_check_mark:|:white_check_mark:||||||||||||| | 13.33% |
 | zhaoSeo |:white_check_mark:|:white_check_mark:||||:white_check_mark:|:white_check_mark:||:white_check_mark:|||||| | 33.33% |
 | zilzu4165 |:white_check_mark:|||||||||||||| | 6.67% |
-
